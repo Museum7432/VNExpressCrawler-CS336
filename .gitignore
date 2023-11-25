@@ -1,0 +1,5 @@
+temp/*
+!temp/.gitkeep
+outputs/*
+!outputs/.gitkeep
+src/__pycache__
