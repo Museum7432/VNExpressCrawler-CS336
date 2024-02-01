@@ -3,3 +3,4 @@ temp/*
 outputs/*
 !outputs/.gitkeep
 src/__pycache__
+dev*
